@@ -14,9 +14,9 @@
  ## <p align="center"> Screenshots </p>
  ![image](c4.png)
  <p align="center"> Search bar  </p>
- ![image](c2.png)\
+ ![image](c2.png)
  <p align="center" > current weather </p>
-  ![image](c3.png)
+ ![image](c3.png)
  <p align="center"> Daily weather forecast <\p>
 
 
