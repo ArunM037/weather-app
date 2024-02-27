@@ -16,10 +16,10 @@
  <p align="center">1. Search bar with dynamic cities </p>
  
  ![image](c2.png)
- <p align="center" > current weather </p>
+ <p align="center" >2.current weather </p>
  
  ![image](c3.png)
- <p align="center"> Daily weather forecast </p>
+ <p align="center"> 3. Daily weather forecast </p>
 
 
 
