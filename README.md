@@ -13,7 +13,7 @@
 
  ## <p align="center"> Screenshots </p>
  ![image](c4.png)
- <p align="center"> Search bar  </p>
+ <p align="center">1. Search bar with dynamic cities </p>
  
  ![image](c2.png)
  <p align="center" > current weather </p>
