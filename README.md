@@ -11,6 +11,10 @@
  <li>shows daily weather forecat</li>
  </ol>
 
+ ## <p align="center"> Screenshots </p>
+ ![image](c1.png)
+ <p align="center"> search bar </p>
+
 
 
 
