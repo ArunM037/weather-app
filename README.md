@@ -17,7 +17,7 @@
  ![image](c2.png)
  <p align="center" > current weather </p>
  ![image](c3.png)
- <p align="center"> Daily weather forecast <\p>
+ <p align="center"> Daily weather forecast </p>
 
 
 
