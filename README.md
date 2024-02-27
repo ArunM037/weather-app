@@ -1,13 +1,16 @@
 # <p align="center"> MERN Weather App</p>
 
 ## <p align="left">Teach Stack</p> 
-# React js
-# API used : GeoDB cities, Open weather api
+ <p>React js</p>
+ <p>API used : GeoDB cities, Open weather api</p>
 
 ## <p align="left"> Features </p>
-# Search Specific weather of city
-# current weather of the city
-# shows daily weather forecat
+ <ol>
+   <li> Search Specific weather of city</li>
+ <li>current weather of the city</li>
+ <li>shows daily weather forecat</li>
+ </ol>
+
 
 
 
